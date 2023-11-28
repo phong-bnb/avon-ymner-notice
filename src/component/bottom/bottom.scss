@@ -6,9 +6,6 @@
   left: 0;
   bottom: 0;
   justify-content: center;
-
-
-
   &__bottom1 {
     flex: 1;
     display: flex;
@@ -21,7 +18,7 @@
 
     &__left {
       display: flex;
-      width: 632px;
+      width: 600px;
       img {
         width: 28.778px;
         height: 14px;
@@ -35,7 +32,6 @@
     &__right {
       p {
         font-weight: 400px;
-        text-align: right;
         font-size: 14px;
         font-style: normal;
         line-height: 28px;
