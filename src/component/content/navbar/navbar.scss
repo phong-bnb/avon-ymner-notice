@@ -1,0 +1,35 @@
+.navbar{
+ height: 100vh;
+ width: 100%;
+ p{
+   color: var(--text, #2F2F2F);
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+ }
+ &__left {
+   display:flex  ;
+   flex-direction: column;
+   gap: 16px;
+    height: 100vh;
+ width: 210px;
+ padding-left: 30px;
+ padding-right: 30px;
+ padding-top: 140px;
+ border-right: 0.5px solid rgba(0, 0, 0, 0.20);
+ &__icon {
+    color: #A78730  ;
+
+ }
+ }
+ a{
+    color: #A78730  ;
+    text-decoration: none;
+    font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+    
+ }
+}

@@ -1,0 +1,10 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+@font-face {
+    font-family: CentraNo1;
+    src: url('./assets/font/CentraNo1-Book.woff');
+  }
+  body {
+    font-family: CentraNo1;
+        width: 100%;
+        background-color: #F9F9F9;
+  }

@@ -1,0 +1,6 @@
+.app{
+    &__content{
+        display: grid;
+        grid-template-columns: 210px calc(100% - 210px);
+    }
+}

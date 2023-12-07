@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className="header">
       <div className="header__header2">
-      <img src="src/assets/img/logo.png" alt="logo" />
+      <img src="src/assets/img/logoheader.png" alt="logo" />
 
        <div className="header__header2__div">
        <PersonIcon />
